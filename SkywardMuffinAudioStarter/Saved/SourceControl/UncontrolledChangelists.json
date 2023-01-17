@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/DataAdit/unreal-learn/SkywardMuffinAudioStarter/Content/SkywardMuffin/Audio/S_Music.uasset",
+				"D:/DataAdit/unreal-learn/SkywardMuffinAudioStarter/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_Death.uasset",
+				"D:/DataAdit/unreal-learn/SkywardMuffinAudioStarter/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_Walk.uasset",
+				"D:/DataAdit/unreal-learn/SkywardMuffinAudioStarter/Content/SkywardMuffin/Audio/S_Pop_Cue.uasset",
+				"D:/DataAdit/unreal-learn/SkywardMuffinAudioStarter/Content/SkywardMuffin/Blueprints/BP_Cloud.uasset",
+				"D:/DataAdit/unreal-learn/SkywardMuffinAudioStarter/Content/SkywardMuffin/Audio/S_Rain.uasset",
+				"D:/DataAdit/unreal-learn/SkywardMuffinAudioStarter/Content/SkywardMuffin/Audio/S_Music_Class.uasset",
+				"D:/DataAdit/unreal-learn/SkywardMuffinAudioStarter/Content/SkywardMuffin/Audio/S_Footstep.uasset",
+				"D:/DataAdit/unreal-learn/SkywardMuffinAudioStarter/Content/SkywardMuffin/Audio/S_Volume_Mix.uasset",
+				"D:/DataAdit/unreal-learn/SkywardMuffinAudioStarter/Content/SkywardMuffin/UI/WBP_Options.uasset",
+				"D:/DataAdit/unreal-learn/SkywardMuffinAudioStarter/Content/SkywardMuffin/Maps/TutorialMap.umap",
+				"D:/DataAdit/unreal-learn/SkywardMuffinAudioStarter/Content/SkywardMuffin/Audio/S_Effects_Class.uasset"
+			]
+		}
+	]
+}
