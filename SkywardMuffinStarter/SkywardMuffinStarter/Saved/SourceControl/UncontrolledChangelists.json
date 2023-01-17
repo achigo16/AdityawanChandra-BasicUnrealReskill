@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/DataAdit/unreal-learn/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/SK_Muffin.uasset",
+				"D:/DataAdit/unreal-learn/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/BP_Muffin.uasset",
+				"D:/DataAdit/unreal-learn/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Blueprints/ABP_Muffin.uasset",
+				"D:/DataAdit/unreal-learn/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_Death.uasset",
+				"D:/DataAdit/unreal-learn/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_Fall.uasset",
+				"D:/DataAdit/unreal-learn/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_Idle.uasset",
+				"D:/DataAdit/unreal-learn/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_Jump.uasset",
+				"D:/DataAdit/unreal-learn/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_Skeleton.uasset",
+				"D:/DataAdit/unreal-learn/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_Walk.uasset",
+				"D:/DataAdit/unreal-learn/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Blueprints/SK_Muffin_Skeleton.uasset",
+				"D:/DataAdit/unreal-learn/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Characters/SK_Muffin_Skeleton.uasset",
+				"D:/DataAdit/unreal-learn/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/ABP_Muffin.uasset",
+				"D:/DataAdit/unreal-learn/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/BS_IdleWalk.uasset",
+				"D:/DataAdit/unreal-learn/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Maps/TutorialMap.umap"
+			]
+		}
+	]
+}

@@ -1,0 +1,1296 @@
+﻿Log file open, 09/17/17 13:28:39
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: SkywardMuffin
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-458826712) SRandInit(-458826712).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.629780
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.09.17-03.28.40:240][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.17-03.28.40:240][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.09.17-03.28.40:266][  0]LogInit: Computer: DESKTOP-IBGBMK1
+[2017.09.17-03.28.40:266][  0]LogInit: User: tommy
+[2017.09.17-03.28.40:266][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.09.17-03.28.40:266][  0]LogInit: High frequency timer resolution =2.437502 MHz
+[2017.09.17-03.28.40:266][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.09.17-03.28.40:267][  0]LogMemory: Platform Memory Stats for Windows
+[2017.09.17-03.28.40:267][  0]LogMemory: Process Physical Memory: 278.38 MB used, 278.38 MB peak
+[2017.09.17-03.28.40:267][  0]LogMemory: Process Virtual Memory: 281.93 MB used, 281.93 MB peak
+[2017.09.17-03.28.40:267][  0]LogMemory: Physical Memory: 4478.61 MB used,  3577.10 MB free, 8055.70 MB total
+[2017.09.17-03.28.40:267][  0]LogMemory: Virtual Memory: 675.91 MB used,  3577.10 MB free, 134217728.00 MB total
+[2017.09.17-03.28.41:152][  0]LogInit: Using OS detected language (en-US).
+[2017.09.17-03.28.41:152][  0]LogInit: Using OS detected locale (en-AU).
+[2017.09.17-03.28.41:210][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.09.17-03.28.44:109][  0]LogD3D11RHI: D3D11 adapters:
+[2017.09.17-03.28.44:641][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2017.09.17-03.28.44:641][  0]LogD3D11RHI:       1974/0/4027 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.09.17-03.28.44:649][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2017.09.17-03.28.44:649][  0]LogD3D11RHI:       128/0/4027 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.09.17-03.28.44:650][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.09.17-03.28.44:651][  0]LogD3D11RHI:       0/0/4027 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.09.17-03.28.44:651][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.09.17-03.28.44:658][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.09.17-03.28.44:659][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2017.09.17-03.28.44:659][  0]LogWindows: EnumDisplayDevices:
+[2017.09.17-03.28.44:659][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2017.09.17-03.28.44:659][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.09.17-03.28.44:659][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.09.17-03.28.44:659][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.09.17-03.28.44:659][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2017.09.17-03.28.44:659][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.09.17-03.28.44:659][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.09.17-03.28.44:659][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.09.17-03.28.44:690][  0]LogD3D11RHI: Async texture creation enabled
+[2017.09.17-03.28.44:715][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.09.17-03.28.44:721][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Intermediate/Shaders/WorkingDirectory/11988/).
+[2017.09.17-03.28.44:721][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/tommy/AppData/Local/Temp/UnrealShaderWorkingDir/1CD263904D7C68F2CA58EB80773B15E4/'.
+[2017.09.17-03.28.44:722][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.09.17-03.28.46:824][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.09.17-03.28.46:872][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.09.17-03.28.46:919][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.09.17-03.28.46:969][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.09.17-03.28.47:027][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.09.17-03.28.47:078][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.09.17-03.28.47:135][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.09.17-03.28.47:187][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.09.17-03.28.47:235][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.09.17-03.28.47:289][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.09.17-03.28.47:343][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.09.17-03.28.47:398][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.09.17-03.28.47:452][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.09.17-03.28.47:514][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.09.17-03.28.47:570][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.09.17-03.28.47:673][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.09.17-03.28.47:673][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.09.17-03.28.47:714][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.09.17-03.28.47:822][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.09.17-03.28.47:850][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.09.17-03.28.47:905][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.09.17-03.28.47:957][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.09.17-03.28.48:013][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.09.17-03.28.48:075][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.09.17-03.28.48:075][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.09.17-03.28.48:763][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.09.17-03.28.49:222][  0]LogDerivedDataCache: Loaded boot cache 0.46s 93MB C:/Users/tommy/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.17-03.28.49:222][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/tommy/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.09.17-03.28.49:222][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.09.17-03.28.49:222][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.09.17-03.28.49:223][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.09.17-03.28.49:223][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.09.17-03.28.49:254][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.09.17-03.28.49:266][  0]LogDerivedDataCache: Using Local data cache path C:/Users/tommy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.09.17-03.28.49:285][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.09.17-03.28.49:289][  0]LogSlate: Using Freetype 2.6.0
+[2017.09.17-03.28.49:307][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.17-03.28.49:307][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.17-03.28.50:055][  0]LogAssetRegistry: FAssetRegistry took 0.0285 seconds to start up
+[2017.09.17-03.28.50:203][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.17-03.28.50:600][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.09.17-03.28.50:953][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.09.17-03.28.50:993][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.09.17-03.28.50:994][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.09.17-03.28.50:994][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.09.17-03.28.50:994][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.09.17-03.28.50:994][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.09.17-03.28.51:740][  0]LogNetVersion: SkywardMuffin , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 110979575)
+[2017.09.17-03.28.52:219][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.054843 seconds
+[2017.09.17-03.28.52:225][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.09.17-03.28.52:225][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.09.17-03.28.52:225][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.09.17-03.28.52:280][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.09.17-03.28.57:719][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.09.17-03.28.57:771][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.09.17-03.28.58:548][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.09.17-03.28.59:084][  0]SourceControl: Source control is disabled
+[2017.09.17-03.28.59:084][  0]SourceControl: Source control is disabled
+[2017.09.17-03.28.59:139][  0]SourceControl: Source control is disabled
+[2017.09.17-03.28.59:189][  0]SourceControl: Source control is disabled
+[2017.09.17-03.28.59:825][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.09.17-03.29.00:076][  0]LogOcInput: OculusInput pre-init called
+[2017.09.17-03.29.00:364][  0]LogEngine: Initializing Engine...
+[2017.09.17-03.29.00:367][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.09.17-03.29.00:768][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.09.17-03.29.00:768][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.09.17-03.29.00:940][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.09.17-03.29.00:955][  0]LogInit: XAudio2 using 'Speakers / Headphones (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.17-03.29.01:020][  0]LogInit: FAudioDevice initialized.
+[2017.09.17-03.29.01:166][  0]LogDerivedDataCache: Saved boot cache 0.15s 93MB C:/Users/tommy/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.17-03.29.01:190][  0]LogInit: Texture streaming: Enabled
+[2017.09.17-03.29.01:363][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.09.17-03.29.01:656][  0]LogInit: Transaction tracking system initialized
+[2017.09.17-03.29.01:994][  0]BlueprintLog: New page: Editor Load
+[2017.09.17-03.29.03:081][  0]LocalizationService: Localization service is disabled
+[2017.09.17-03.29.03:984][  0]LogConsoleResponse: Display: 
+[2017.09.17-03.29.04:378][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.09.17-03.29.04:378][  0]LogCook: Display: Mobile HDR setting 1
+[2017.09.17-03.29.04:379][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Content/' took 0.01s
+[2017.09.17-03.29.04:379][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.09.17-03.29.05:644][  0]SourceControl: Source control is disabled
+[2017.09.17-03.29.05:646][  0]Cmd: MAP LOAD FILE="../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Maps/TutorialMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.17-03.29.05:647][  0]LightingResults: New page: Lighting Build
+[2017.09.17-03.29.05:694][  0]MapCheck: New page: Map Check
+[2017.09.17-03.29.05:694][  0]LightingResults: New page: Lighting Build
+[2017.09.17-03.29.06:101][  0]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.17+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2017.09.17-03.29.06:102][  0]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.17+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2017.09.17-03.29.06:102][  0]LogPhysics: Warning: Failed to cook convex: /Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane 0 (FlipX:0). The remaining elements will not get cooked.
+[2017.09.17-03.29.06:102][  0]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.17+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2017.09.17-03.29.06:102][  0]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.17+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2017.09.17-03.29.06:102][  0]LogPhysics: Warning: Failed to cook convex: /Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane 0 (FlipX:1). The remaining elements will not get cooked.
+[2017.09.17-03.29.06:103][  0]LogPhysics: Warning: Attempt to build physics data for /Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane:BodySetup_0 when we are unable to.
+[2017.09.17-03.29.06:178][  0]LogAIModule: Creating AISystem for world TutorialMap
+[2017.09.17-03.29.06:197][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.17-03.29.06:219][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.17-03.29.06:274][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.263ms to complete.
+[2017.09.17-03.29.06:274][  0]LogFileHelpers: Loading map 'TutorialMap' took 0.629
+[2017.09.17-03.29.06:534][  0]LogCollectionManager: Loaded 0 collections in 0.001616 seconds
+[2017.09.17-03.29.06:643][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Saved/Collections/' took 0.01s
+[2017.09.17-03.29.06:643][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Content/Developers/tommy/Collections/' took 0.01s
+[2017.09.17-03.29.06:643][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Content/Collections/' took 0.01s
+[2017.09.17-03.29.06:643][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.09.17-03.29.06:658][  0]LogContentBrowser: Native class hierarchy populated in 0.0130 seconds. Added 2386 classes and 500 folders.
+[2017.09.17-03.29.06:735][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.09.17-03.29.07:175][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.09.17-03.29.07:240][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.09.17-03.29.07:395][  0]LogSlate: Took 0.007415 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.17-03.29.07:408][  0]LogSlate: Took 0.008599 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.09.17-03.29.07:421][  0]LogSlate: Took 0.007273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.09.17-03.29.07:626][  0]LogRenderer: Reallocating scene render targets to support 1112x628 Format 10 NumSamples 1 (Frame:1).
+[2017.09.17-03.29.07:856][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.09.17-03.29.07:856][  0]LogLoad: (Engine Initialization) Total time: 30.78 seconds
+[2017.09.17-03.29.07:856][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.09.17-03.29.07:856][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.09.17-03.29.08:221][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.09.17-03.29.08:282][  0]LogSlate: Took 0.005164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.17-03.29.08:539][  1]LogAssetRegistry: Asset discovery search completed in 18.5070 seconds
+[2017.09.17-03.29.08:541][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.09.17-03.29.08:541][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2017.09.17-03.30.08:781][697]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.17-03.30.09:335][697]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.17-03.30.09:459][697]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 113 classes and 0 folders.
+[2017.09.17-03.30.10:260][697]LogSlate: Took 0.007902 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.09.17-03.30.10:434][698]LogSlate: Took 0.007222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.09.17-03.30.12:916][824]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.17-03.30.13:703][868]LogAnimation: Warning: AnimBP ABP_Muffin_C is incompatible with skeleton SK_Sphere_Skeleton, removing AnimBP from actor.
+[2017.09.17-03.30.13:703][868]LogAnimation: Warning: AnimBP ABP_Muffin_C is incompatible with skeleton SK_Sphere_Skeleton, removing AnimBP from actor.
+[2017.09.17-03.30.13:703][868]LogAnimation: Warning: AnimBP ABP_Muffin_C is incompatible with skeleton SK_Sphere_Skeleton, removing AnimBP from actor.
+[2017.09.17-03.30.14:800][926]BlueprintLog: New page: Compile BP_Muffin
+[2017.09.17-03.30.15:755][934]LogSavePackage: Save=109.91ms
+[2017.09.17-03.30.15:755][934]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Saved/BP_MuffinB8DDA7864FEE3E13E18674BD5CB27B25.tmp' to '../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/BP_Muffin.uasset'
+[2017.09.17-03.30.15:758][934]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/BP_Muffin.uasset
+[2017.09.17-03.30.34:749][777]LogSavePackage: Save=41.48ms
+[2017.09.17-03.30.34:749][777]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Saved/TutorialMap2991C7CE499CF7D6F86EBF94A03A70F3.tmp' to '../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Maps/TutorialMap.umap'
+[2017.09.17-03.30.34:753][777]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Maps/TutorialMap.umap
+[2017.09.17-03.30.34:774][777]LogFileHelpers: Saving map 'TutorialMap' took 0.140
+[2017.09.17-03.30.39:270][ 41]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.17-03.30.39:311][ 41]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2017.09.17-03.30.39:312][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.17-03.30.39:313][ 41]PIE: New page: PIE session: TutorialMap (17 Sep 2017 11:30:39 pm)
+[2017.09.17-03.30.39:313][ 41]LogPlayLevel: Creating play world package: /Game/SkywardMuffin/Maps/UEDPIE_0_TutorialMap
+[2017.09.17-03.30.39:317][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003272s)
+[2017.09.17-03.30.39:317][ 41]LogAIModule: Creating AISystem for world TutorialMap
+[2017.09.17-03.30.39:317][ 41]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2017.09.17-03.30.39:318][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkywardMuffin/Maps/TutorialMap.TutorialMap to /Game/SkywardMuffin/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.004305s)
+[2017.09.17-03.30.39:334][ 41]LogInit: XAudio2 using 'Speakers / Headphones (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.17-03.30.39:343][ 41]LogInit: FAudioDevice initialized.
+[2017.09.17-03.30.39:388][ 41]LogLoad: Game class is 'GM_Tutorial_C'
+[2017.09.17-03.30.39:391][ 41]LogWorld: Bringing World /Game/SkywardMuffin/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2017.09.17-13.30.39
+[2017.09.17-03.30.39:393][ 41]LogWorld: Bringing up level for play took: 0.002397
+[2017.09.17-03.30.39:434][ 41]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.09.17-03.30.39:440][ 41]Cmd: ShowFlag.Tonemapper 0
+[2017.09.17-03.30.39:441][ 41]ShowFlag.Tonemapper = "0"
+[2017.09.17-03.30.39:442][ 41]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.39:442][ 41]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.39:443][ 41]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.39:443][ 41]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.39:443][ 41]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.39:443][ 41]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.39:444][ 41]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.39:444][ 41]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.39:444][ 41]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.39:444][ 41]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.39:445][ 41]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.39:445][ 41]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.39:445][ 41]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.39:445][ 41]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.39:446][ 41]PIE: Play in editor start time for /Game/SkywardMuffin/Maps/UEDPIE_0_TutorialMap -0.121
+[2017.09.17-03.30.39:446][ 41]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2017.09.17-03.30.42:510][221]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.42:510][221]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.42:511][221]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.42:511][221]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.43:179][261]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.43:179][261]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.43:180][261]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.43:180][261]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.43:663][290]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.43:663][290]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.43:664][290]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.43:664][290]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.44:713][353]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.44:713][353]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.44:713][353]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.44:714][353]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.45:313][389]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.45:314][389]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.45:314][389]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.45:314][389]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.45:996][430]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.45:996][430]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.45:997][430]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.45:997][430]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.46:497][460]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.46:497][460]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.46:497][460]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.46:497][460]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.47:016][491]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.47:016][491]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.47:018][491]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.47:018][491]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.48:149][559]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.48:150][559]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.48:150][559]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.48:150][559]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.48:650][589]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.48:650][589]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.48:651][589]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.48:651][589]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.53:887][903]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.53:887][903]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.53:887][903]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.53:887][903]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.53:888][903]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.53:888][903]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.53:888][903]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.53:888][903]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.53:889][903]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.53:889][903]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.53:889][903]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.53:889][903]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.53:890][903]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.53:890][903]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.56:838][ 80]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.56:838][ 80]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.56:838][ 80]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.56:839][ 80]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.57:325][109]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.57:325][109]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.57:325][109]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.57:325][109]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.57:909][144]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.57:909][144]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.57:909][144]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.57:909][144]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.58:559][183]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.58:559][183]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.58:559][183]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.58:559][183]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.59:409][234]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.59:409][234]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.59:409][234]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.59:410][234]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.59:909][264]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.59:909][264]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.30.59:909][264]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.30.59:909][264]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.00:459][297]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.00:459][297]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.00:459][297]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.00:459][297]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.05:900][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.05:900][623]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.05:900][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.05:900][623]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.05:900][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.05:900][623]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.05:901][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.05:901][623]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.05:901][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.05:901][623]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.05:902][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.05:902][623]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.05:902][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.05:902][623]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.09:038][811]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.09:038][811]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.09:039][811]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.09:039][811]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.11:003][929]Set new viewmode: Wireframe
+[2017.09.17-03.31.14:854][160]Set new viewmode: Unlit
+[2017.09.17-03.31.15:172][179]Set new viewmode: Lit
+[2017.09.17-03.31.15:405][193]Set new viewmode: Lit_DetailLighting
+[2017.09.17-03.31.21:610][559]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.21:610][559]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.21:610][559]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.21:610][559]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.21:611][559]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.21:611][559]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.21:611][559]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.21:611][559]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.21:612][559]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.21:612][559]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.21:612][559]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.21:612][559]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.21:612][559]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.21:613][559]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.22:860][634]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.22:860][634]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.22:861][634]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.22:861][634]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.23:094][648]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2017.09.17-03.31.23:131][648]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2017.09.17-03.31.24:963][750]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.17-03.31.24:978][750]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2017.09.17-03.31.24:978][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.17-03.31.24:978][750]PIE: New page: PIE session: TutorialMap (17 Sep 2017 11:31:24 pm)
+[2017.09.17-03.31.24:978][750]LogPlayLevel: Creating play world package: /Game/SkywardMuffin/Maps/UEDPIE_0_TutorialMap
+[2017.09.17-03.31.24:981][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002764s)
+[2017.09.17-03.31.24:981][750]LogAIModule: Creating AISystem for world TutorialMap
+[2017.09.17-03.31.24:982][750]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2017.09.17-03.31.24:982][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkywardMuffin/Maps/TutorialMap.TutorialMap to /Game/SkywardMuffin/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.003742s)
+[2017.09.17-03.31.25:012][750]LogInit: XAudio2 using 'Speakers / Headphones (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.17-03.31.25:033][750]LogInit: FAudioDevice initialized.
+[2017.09.17-03.31.25:071][750]LogLoad: Game class is 'GM_Tutorial_C'
+[2017.09.17-03.31.25:073][750]LogWorld: Bringing World /Game/SkywardMuffin/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2017.09.17-13.31.25
+[2017.09.17-03.31.25:073][750]LogWorld: Bringing up level for play took: 0.001221
+[2017.09.17-03.31.25:075][750]Cmd: ShowFlag.Tonemapper 0
+[2017.09.17-03.31.25:075][750]ShowFlag.Tonemapper = "0"
+[2017.09.17-03.31.25:075][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.25:075][750]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.25:076][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.25:076][750]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.25:076][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.25:076][750]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.25:076][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.25:076][750]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.25:077][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.25:077][750]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.25:077][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.25:077][750]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.25:078][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.25:078][750]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.25:078][750]PIE: Play in editor start time for /Game/SkywardMuffin/Maps/UEDPIE_0_TutorialMap -0.489
+[2017.09.17-03.31.25:078][750]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2017.09.17-03.31.27:013][866]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.27:013][866]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.27:014][866]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.27:014][866]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.27:763][911]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.27:763][911]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.27:763][911]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.27:763][911]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.31:447][132]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.31:447][132]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.31:447][132]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.31:447][132]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.31:447][132]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.31:447][132]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.31:448][132]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.31:448][132]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.31:448][132]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.31:448][132]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.31:449][132]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.31:449][132]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.31:449][132]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.31:449][132]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.33:264][241]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.33:264][241]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.33:264][241]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.33:264][241]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.33:764][271]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.33:764][271]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.33:764][271]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.33:764][271]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.34:247][300]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.34:247][300]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.34:247][300]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.34:247][300]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.35:330][365]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.35:330][365]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.35:331][365]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.35:331][365]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.35:847][396]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.35:847][396]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.35:847][396]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.35:847][396]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.37:144][473]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.37:144][473]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.37:144][473]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.37:144][473]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.37:660][504]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.37:660][504]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.37:661][504]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.37:661][504]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.38:744][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.38:744][569]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.38:744][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.38:744][569]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.39:227][598]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.39:227][598]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.39:228][598]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.39:228][598]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.39:777][631]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.39:777][631]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.39:778][631]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.39:778][631]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.40:611][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.40:611][681]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.40:612][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.40:612][681]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.41:080][709]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.41:080][709]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.41:081][709]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.41:081][709]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.41:613][741]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.41:613][741]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.41:613][741]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.41:614][741]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.42:730][808]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.42:730][808]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.42:731][808]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.42:731][808]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.43:214][837]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.43:214][837]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.43:214][837]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.43:214][837]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.43:780][871]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.43:780][871]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.43:781][871]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.43:781][871]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.44:347][905]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.44:347][905]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.44:348][905]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.44:348][905]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.44:847][935]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.44:847][935]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.44:848][935]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.44:848][935]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.45:364][966]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.45:364][966]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.45:365][966]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.45:365][966]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.45:366][966]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.45:366][966]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.49:474][212]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.49:474][212]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.49:475][212]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.49:475][212]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.49:475][212]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.49:475][212]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.49:476][212]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.49:476][212]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.49:476][212]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.49:476][212]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.49:477][212]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.49:477][212]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.49:477][212]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.31.49:477][212]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.31.57:092][646]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.09.17-03.32.00:859][869]LogSlate: Took 0.006657 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2017.09.17-03.32.13:286][603]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2017.09.17-03.32.13:331][603]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2017.09.17-03.33.01:201][359]Cmd: TRANSACTION UNDO
+[2017.09.17-03.33.01:201][359]LogEditorTransaction: Undo Set actor location
+[2017.09.17-03.33.08:233][773]EditorErrors: New page: Actor attachment
+[2017.09.17-03.33.42:172][737]BlueprintLog: New page: Compile BP_GameCamera
+[2017.09.17-03.33.42:992][758]LogSavePackage: Save=73.70ms
+[2017.09.17-03.33.42:992][758]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Saved/BP_GameCamera3FB80DB8424698BC999111A7D1A2B44D.tmp' to '../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Blueprints/BP_GameCamera.uasset'
+[2017.09.17-03.33.42:996][758]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Blueprints/BP_GameCamera.uasset
+[2017.09.17-03.33.53:044][344]EditorErrors: New page: Actor attachment
+[2017.09.17-03.33.54:178][412]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.17-03.33.54:197][412]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2017.09.17-03.33.54:197][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.17-03.33.54:197][412]PIE: New page: PIE session: TutorialMap (17 Sep 2017 11:33:54 pm)
+[2017.09.17-03.33.54:197][412]LogPlayLevel: Creating play world package: /Game/SkywardMuffin/Maps/UEDPIE_0_TutorialMap
+[2017.09.17-03.33.54:200][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002293s)
+[2017.09.17-03.33.54:200][412]LogAIModule: Creating AISystem for world TutorialMap
+[2017.09.17-03.33.54:200][412]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2017.09.17-03.33.54:201][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkywardMuffin/Maps/TutorialMap.TutorialMap to /Game/SkywardMuffin/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.003328s)
+[2017.09.17-03.33.54:219][412]LogInit: XAudio2 using 'Speakers / Headphones (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.17-03.33.54:227][412]LogInit: FAudioDevice initialized.
+[2017.09.17-03.33.54:258][412]LogLoad: Game class is 'GM_Tutorial_C'
+[2017.09.17-03.33.54:261][412]LogWorld: Bringing World /Game/SkywardMuffin/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2017.09.17-13.33.54
+[2017.09.17-03.33.54:261][412]LogWorld: Bringing up level for play took: 0.001244
+[2017.09.17-03.33.54:263][412]Cmd: ShowFlag.Tonemapper 0
+[2017.09.17-03.33.54:263][412]ShowFlag.Tonemapper = "0"
+[2017.09.17-03.33.54:263][412]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.33.54:263][412]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.33.54:264][412]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.33.54:264][412]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.33.54:264][412]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.33.54:264][412]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.33.54:264][412]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.33.54:264][412]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.33.54:265][412]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.33.54:265][412]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.33.54:265][412]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.33.54:265][412]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.33.54:265][412]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.33.54:265][412]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.33.54:266][412]PIE: Play in editor start time for /Game/SkywardMuffin/Maps/UEDPIE_0_TutorialMap 0.7
+[2017.09.17-03.33.54:266][412]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2017.09.17-03.33.55:817][505]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.33.55:817][505]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.33.55:817][505]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.33.55:817][505]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.33.56:283][533]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.33.56:283][533]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.33.56:284][533]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.33.56:284][533]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.33.56:834][566]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.33.56:834][566]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.33.56:834][566]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.33.56:834][566]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.33.57:350][597]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.33.57:350][597]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.33.57:351][597]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.33.57:351][597]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.33.57:901][630]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.33.57:901][630]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.33.57:901][630]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.33.57:901][630]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.33.58:451][663]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.33.58:451][663]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.33.58:451][663]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.33.58:451][663]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.33.58:918][691]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.33.58:918][691]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.33.58:918][691]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.33.58:918][691]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.33.59:422][721]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.33.59:422][721]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.33.59:423][721]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.33.59:423][721]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.00:455][783]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.00:455][783]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.00:455][783]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.00:455][783]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.00:955][813]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.00:955][813]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.00:956][813]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.00:956][813]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.05:594][ 91]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.05:594][ 91]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.05:594][ 91]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.05:594][ 91]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.05:595][ 91]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.05:595][ 91]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.05:595][ 91]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.05:595][ 91]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.05:595][ 91]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.05:595][ 91]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.05:596][ 91]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.05:596][ 91]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.05:596][ 91]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.05:596][ 91]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.09:328][315]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.09:328][315]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.09:328][315]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.09:328][315]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.09:329][315]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.09:329][315]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.10:761][401]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.10:761][401]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.10:762][401]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.10:762][401]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.11:295][433]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.11:295][433]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.11:295][433]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.11:295][433]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.11:795][463]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.11:795][463]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.11:795][463]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.11:796][463]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.13:195][547]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.13:195][547]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.13:195][547]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.13:195][547]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.13:678][576]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.13:678][576]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.13:679][576]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.13:679][576]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.14:145][604]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.14:145][604]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.14:145][604]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.14:145][604]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.15:161][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.15:161][665]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.15:162][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.15:162][665]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.15:628][693]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.15:628][693]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.15:628][693]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.15:629][693]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.16:679][756]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.16:679][756]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.16:679][756]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.16:679][756]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.17:262][791]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.17:262][791]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.17:263][791]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.17:263][791]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.17:796][823]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.17:796][823]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.17:798][823]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.17:798][823]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.18:362][857]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.18:362][857]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.18:364][857]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.18:364][857]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.19:581][930]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.19:582][930]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.19:582][930]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.19:582][930]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.20:232][969]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.20:232][969]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.20:232][969]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.20:232][969]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.20:871][  6]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.20:871][  6]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.20:872][  6]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.20:872][  6]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.22:163][ 83]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.22:163][ 83]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.22:164][ 83]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.22:164][ 83]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.22:764][119]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.22:764][119]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.22:764][119]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.22:764][119]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.24:847][244]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.24:847][244]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.24:847][244]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.24:847][244]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.25:454][280]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.25:454][280]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.25:455][280]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.25:455][280]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.26:759][357]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.26:759][357]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.26:761][357]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.26:761][357]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.28:226][445]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.28:226][445]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.28:229][445]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.28:229][445]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.30:003][551]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.30:003][551]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.30:004][551]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.30:004][551]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.30:520][582]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.30:520][582]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.30:520][582]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.30:520][582]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.30:987][610]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.30:987][610]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.30:987][610]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.30:987][610]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.31:538][643]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.31:538][643]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.31:539][643]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.31:539][643]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.32:854][722]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.32:854][722]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.32:854][722]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.32:854][722]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.33:937][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.33:937][787]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.33:938][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.33:938][787]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.34:404][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.34:404][815]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.34:404][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.34:404][815]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.35:504][881]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.35:504][881]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.35:504][881]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.35:504][881]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.36:137][919]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.36:137][919]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.36:138][919]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.36:138][919]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.37:672][ 11]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.37:672][ 11]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.37:672][ 11]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.37:672][ 11]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.38:205][ 43]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.38:205][ 43]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.38:205][ 43]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.38:205][ 43]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.39:388][114]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.39:388][114]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.39:389][114]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.39:389][114]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.40:005][151]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.40:005][151]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.40:006][151]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.40:006][151]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.42:140][279]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.42:141][279]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.42:141][279]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.42:141][279]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.43:374][353]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.43:374][353]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.43:374][353]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.43:374][353]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.43:973][389]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.43:973][389]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.43:974][389]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.43:974][389]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.44:774][437]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.44:774][437]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.44:775][437]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.44:775][437]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.45:724][494]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.45:724][494]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.45:724][494]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.45:725][494]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.46:191][522]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.46:191][522]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.46:192][522]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.46:192][522]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.47:458][598]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.47:458][598]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.47:458][598]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.47:458][598]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.48:308][649]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.48:308][649]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.48:308][649]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.48:308][649]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.49:076][695]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.49:076][695]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.49:077][695]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.49:077][695]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.49:728][734]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.49:728][734]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.49:729][734]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.49:729][734]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.50:328][770]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.50:328][770]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.50:329][770]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.50:329][770]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.51:531][842]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.51:531][842]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.51:532][842]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.51:532][842]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.52:149][879]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.52:149][879]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.52:149][879]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.52:149][879]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.52:915][925]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.52:915][925]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.52:915][925]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.52:915][925]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.54:165][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.54:165][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.54:166][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.54:166][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.54:777][ 36]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.54:777][ 36]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.54:778][ 36]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.54:778][ 36]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.55:913][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.55:913][104]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.55:913][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.55:913][104]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.56:480][138]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.56:480][138]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.56:480][138]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.56:480][138]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.57:641][207]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.57:641][207]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.57:641][207]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.57:642][207]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.58:259][244]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.58:259][244]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.58:259][244]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.58:259][244]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.59:396][312]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.59:396][312]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.34.59:397][312]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.34.59:397][312]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.35.00:546][381]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.35.00:546][381]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.35.00:547][381]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.35.00:547][381]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.35.02:117][475]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.35.02:117][475]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.35.02:118][475]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.35.02:118][475]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.35.02:700][510]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.35.02:700][510]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.35.02:701][510]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.35.02:701][510]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.35.03:350][549]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.35.03:351][549]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.35.03:351][549]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.35.03:351][549]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.35.04:533][620]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.35.04:533][620]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.35.04:534][620]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.35.04:534][620]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.35.04:551][621]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2017.09.17-03.35.04:588][621]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2017.09.17-03.35.05:886][681]LogSavePackage: Save=42.89ms
+[2017.09.17-03.35.05:886][681]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Saved/TutorialMapE29A4BD44CD6F95FC350C7ADDA1017D6.tmp' to '../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Maps/TutorialMap.umap'
+[2017.09.17-03.35.05:890][681]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Maps/TutorialMap.umap
+[2017.09.17-03.35.05:908][681]LogFileHelpers: Saving map 'TutorialMap' took 0.137
+[2017.09.17-03.35.09:573][898]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.17-03.35.09:583][898]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2017.09.17-03.35.09:583][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.17-03.35.09:583][898]PIE: New page: PIE session: TutorialMap (17 Sep 2017 11:35:09 pm)
+[2017.09.17-03.35.09:583][898]LogPlayLevel: Creating play world package: /Game/SkywardMuffin/Maps/UEDPIE_0_TutorialMap
+[2017.09.17-03.35.09:586][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002747s)
+[2017.09.17-03.35.09:586][898]LogAIModule: Creating AISystem for world TutorialMap
+[2017.09.17-03.35.09:587][898]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2017.09.17-03.35.09:587][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkywardMuffin/Maps/TutorialMap.TutorialMap to /Game/SkywardMuffin/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.004081s)
+[2017.09.17-03.35.09:605][898]LogInit: XAudio2 using 'Speakers / Headphones (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.17-03.35.09:613][898]LogInit: FAudioDevice initialized.
+[2017.09.17-03.35.09:646][898]LogLoad: Game class is 'GM_Tutorial_C'
+[2017.09.17-03.35.09:649][898]LogWorld: Bringing World /Game/SkywardMuffin/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2017.09.17-13.35.09
+[2017.09.17-03.35.09:649][898]LogWorld: Bringing up level for play took: 0.001362
+[2017.09.17-03.35.09:650][898]Cmd: ShowFlag.Tonemapper 0
+[2017.09.17-03.35.09:651][898]ShowFlag.Tonemapper = "0"
+[2017.09.17-03.35.09:651][898]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.35.09:651][898]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.35.09:651][898]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.35.09:651][898]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.35.09:652][898]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.35.09:652][898]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.35.09:652][898]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.35.09:652][898]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.35.09:653][898]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.35.09:653][898]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.35.09:653][898]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.35.09:653][898]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.35.09:653][898]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.35.09:653][898]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.35.09:654][898]PIE: Play in editor start time for /Game/SkywardMuffin/Maps/UEDPIE_0_TutorialMap 0.088
+[2017.09.17-03.35.09:654][898]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2017.09.17-03.35.10:290][936]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2017.09.17-03.35.10:331][936]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2017.09.17-03.35.19:505][462]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.09.17-03.35.19:506][462]LogPhysics: Warning: ForeachShape(Convex): [/Game/SkywardMuffin/Meshes/SM_Plane.SM_Plane] ScaledElem[0] invalid
+[2017.09.17-03.35.26:884][856]LogSavePackage: Save=64.09ms
+[2017.09.17-03.35.26:884][856]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Saved/BP_CloudSpawnerBA6EEC8D499D07FACF3DA29CD52A0972.tmp' to '../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Blueprints/BP_CloudSpawner.uasset'
+[2017.09.17-03.35.26:886][856]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Blueprints/BP_CloudSpawner.uasset
+[2017.09.17-03.35.59:666][668]LogSavePackage: Save=43.21ms
+[2017.09.17-03.35.59:666][668]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Saved/TutorialMapA799CC414FD2806B1F1B1E96B161D21B.tmp' to '../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Maps/TutorialMap.umap'
+[2017.09.17-03.35.59:667][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Maps/TutorialMap.umap
+[2017.09.17-03.35.59:702][668]LogSavePackage: Save=9.93ms
+[2017.09.17-03.35.59:702][668]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Saved/TutorialMap_BuiltData4A2ED79540CC8408903B4EA1EDBECB07.tmp' to '../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Maps/TutorialMap_BuiltData.uasset'
+[2017.09.17-03.35.59:703][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Maps/TutorialMap_BuiltData.uasset
+[2017.09.17-03.38.24:803][504]Cmd: QUIT_EDITOR
+[2017.09.17-03.38.25:026][504]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.09.17-03.38.25:037][504]LogExit: Preparing to exit.
+[2017.09.17-03.38.26:092][504]LogDirectoryWatcher: A directory notification for 'C:/Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Content/' was aborted.
+[2017.09.17-03.38.26:125][504]LogExit: Editor shut down
+[2017.09.17-03.38.26:132][504]LogExit: Transaction tracking system shut down
+[2017.09.17-03.38.26:331][504]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.09.17-03.38.26:331][504]LogDirectoryWatcher: A directory notification for '../../../../../../Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Content/' was aborted.
+[2017.09.17-03.38.26:331][504]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.09.17-03.38.26:331][504]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.09.17-03.38.26:331][504]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.09.17-03.38.26:419][504]LogExit: Object subsystem successfully closed.
+[2017.09.17-03.38.26:432][504]LogD3D11RHI: Shutdown
+[2017.09.17-03.38.26:432][504]LogD3D11RHI: CleanupD3DDevice
+[2017.09.17-03.38.26:532][504]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.09.17-03.38.26:552][504]LogModuleManager: Shutting down and abandoning module SequencerWidgets (538)
+[2017.09.17-03.38.26:552][504]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (536)
+[2017.09.17-03.38.26:552][504]LogModuleManager: Shutting down and abandoning module BlueprintGraph (534)
+[2017.09.17-03.38.26:552][504]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (532)
+[2017.09.17-03.38.26:552][504]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.09.17-03.38.26:552][504]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.09.17-03.38.26:552][504]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.09.17-03.38.26:552][504]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.09.17-03.38.26:553][504]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.09.17-03.38.26:553][504]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.09.17-03.38.26:553][504]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.09.17-03.38.26:553][504]LogDirectoryWatcher: A directory notification for 'C:/Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Content/Collections/' was aborted.
+[2017.09.17-03.38.26:553][504]LogDirectoryWatcher: A directory notification for 'C:/Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Content/Developers/tommy/Collections/' was aborted.
+[2017.09.17-03.38.26:553][504]LogDirectoryWatcher: A directory notification for 'C:/Users/tommy/Desktop/SkywardMuffinStarter/SkywardMuffinStarter/Saved/Collections/' was aborted.
+[2017.09.17-03.38.26:553][504]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.09.17-03.38.26:553][504]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.09.17-03.38.26:553][504]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.09.17-03.38.26:554][504]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.09.17-03.38.26:769][504]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.09.17-03.38.26:769][504]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.09.17-03.38.26:769][504]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.09.17-03.38.26:769][504]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.09.17-03.38.26:769][504]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.09.17-03.38.26:769][504]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.09.17-03.38.26:769][504]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.09.17-03.38.26:769][504]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.09.17-03.38.26:769][504]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.09.17-03.38.26:769][504]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.09.17-03.38.26:769][504]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.09.17-03.38.26:769][504]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.09.17-03.38.26:769][504]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.09.17-03.38.26:769][504]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.09.17-03.38.26:769][504]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.09.17-03.38.26:770][504]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.09.17-03.38.26:770][504]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.09.17-03.38.26:770][504]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.09.17-03.38.26:770][504]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.09.17-03.38.26:770][504]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.09.17-03.38.26:770][504]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.09.17-03.38.26:770][504]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.09.17-03.38.26:770][504]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.09.17-03.38.26:770][504]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.09.17-03.38.26:824][504]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.09.17-03.38.26:824][504]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.09.17-03.38.26:824][504]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.09.17-03.38.26:824][504]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.09.17-03.38.26:824][504]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.09.17-03.38.26:824][504]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.09.17-03.38.26:824][504]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.09.17-03.38.26:824][504]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.09.17-03.38.26:824][504]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.09.17-03.38.26:824][504]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.09.17-03.38.26:836][504]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.09.17-03.38.26:837][504]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.09.17-03.38.26:837][504]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.09.17-03.38.26:837][504]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.09.17-03.38.26:837][504]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.09.17-03.38.26:837][504]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.09.17-03.38.26:837][504]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.09.17-03.38.26:837][504]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.09.17-03.38.26:837][504]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.09.17-03.38.26:837][504]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.09.17-03.38.26:837][504]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.09.17-03.38.26:837][504]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.09.17-03.38.26:837][504]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.09.17-03.38.26:837][504]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.09.17-03.38.26:837][504]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.09.17-03.38.26:837][504]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.09.17-03.38.26:837][504]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.09.17-03.38.26:837][504]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.09.17-03.38.26:837][504]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.09.17-03.38.26:837][504]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.09.17-03.38.26:837][504]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.09.17-03.38.26:865][504]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.09.17-03.38.26:866][504]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.09.17-03.38.26:866][504]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.09.17-03.38.26:866][504]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.09.17-03.38.26:866][504]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.09.17-03.38.26:866][504]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.09.17-03.38.26:867][504]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.09.17-03.38.26:867][504]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.09.17-03.38.26:867][504]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.09.17-03.38.26:867][504]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.09.17-03.38.26:867][504]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.09.17-03.38.26:867][504]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.09.17-03.38.26:867][504]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.09.17-03.38.26:867][504]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.09.17-03.38.26:968][504]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.09.17-03.38.27:068][504]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.09.17-03.38.27:068][504]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.09.17-03.38.27:068][504]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.09.17-03.38.27:068][504]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.09.17-03.38.27:068][504]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.09.17-03.38.27:068][504]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.09.17-03.38.27:069][504]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.09.17-03.38.27:069][504]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.09.17-03.38.27:069][504]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.09.17-03.38.27:069][504]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.09.17-03.38.27:069][504]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.09.17-03.38.27:069][504]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.09.17-03.38.27:069][504]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.09.17-03.38.27:069][504]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.09.17-03.38.27:069][504]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.09.17-03.38.27:069][504]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.09.17-03.38.27:069][504]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.09.17-03.38.27:069][504]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.09.17-03.38.27:069][504]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.09.17-03.38.27:069][504]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.09.17-03.38.27:069][504]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.09.17-03.38.27:069][504]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.09.17-03.38.27:069][504]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.09.17-03.38.27:069][504]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.09.17-03.38.27:069][504]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.09.17-03.38.27:069][504]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.09.17-03.38.27:069][504]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.09.17-03.38.27:069][504]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.09.17-03.38.27:069][504]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.09.17-03.38.27:069][504]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.09.17-03.38.27:071][504]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.09.17-03.38.27:071][504]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.09.17-03.38.27:071][504]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.09.17-03.38.27:071][504]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.09.17-03.38.27:071][504]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.09.17-03.38.27:071][504]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.09.17-03.38.27:071][504]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.09.17-03.38.27:071][504]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.09.17-03.38.27:071][504]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.09.17-03.38.27:071][504]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.09.17-03.38.27:071][504]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.09.17-03.38.27:071][504]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.09.17-03.38.27:071][504]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.09.17-03.38.27:071][504]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.09.17-03.38.27:071][504]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.09.17-03.38.27:071][504]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.09.17-03.38.27:072][504]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.09.17-03.38.27:073][504]LogDerivedDataCache: Shutdown
+[2017.09.17-03.38.27:073][504]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.09.17-03.38.27:073][504]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.09.17-03.38.27:073][504]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.09.17-03.38.27:073][504]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.09.17-03.38.27:073][504]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.09.17-03.38.27:073][504]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.09.17-03.38.27:073][504]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.09.17-03.38.27:073][504]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.09.17-03.38.27:073][504]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.09.17-03.38.27:073][504]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.09.17-03.38.27:074][504]LogOnline: Display: Unloading online subsystem: NULL
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.09.17-03.38.27:074][504]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.09.17-03.38.27:074][504]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2017.09.17-03.38.27:074][504]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBCC5192F-40D6-2F2E-254D-B99E8DC936FF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.1-3586342%2B%2B%2BUE4%2BRelease-4.17&UserID=b4e25eea4a0d6450fb924cbf2b84ec0c%7Cddaae3d7adad4251b47aebd4e1f1f19e%7Cc1bb1c04-1998-4d1c-9da9-f3fc45d89125&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.09.17-03.38.27:074][504]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBCC5192F-40D6-2F2E-254D-B99E8DC936FF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.1-3586342%2B%2B%2BUE4%2BRelease-4.17&UserID=b4e25eea4a0d6450fb924cbf2b84ec0c%7Cddaae3d7adad4251b47aebd4e1f1f19e%7Cc1bb1c04-1998-4d1c-9da9-f3fc45d89125&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.09.17-03.38.27:078][504]LogHttp: Warning: 0000015760EB0A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.09.17-03.38.27:078][504]LogHttp: Warning: 0000015760EB0A00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1572767bfb8 [can pipeline])
+[2017.09.17-03.38.27:078][504]LogHttp: Warning: 0000015760EB0A00: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2017.09.17-03.38.27:078][504]LogHttp: Warning: 0000015760EB0A00: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.09.17-03.38.27:078][504]LogHttp: Warning: 0000015760EB0A00: libcurl info message cache 3 (Closing connection 6)
+[2017.09.17-03.38.27:078][504]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.09.17-03.38.27:579][504]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.09.17-03.38.28:080][504]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.09.17-03.38.28:580][504]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.09.17-03.38.29:081][504]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.09.17-03.38.29:582][504]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.09.17-03.38.30:083][504]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.09.17-03.38.30:583][504]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.09.17-03.38.31:083][504]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.09.17-03.38.31:584][504]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.09.17-03.38.32:084][504]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.09.17-03.38.32:585][504]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.09.17-03.38.33:086][504]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.09.17-03.38.33:588][504]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.09.17-03.38.34:088][504]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.09.17-03.38.34:597][504]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.09.17-03.38.35:148][504]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.09.17-03.38.35:675][504]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.09.17-03.38.35:677][504]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.09.17-03.38.35:678][504]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.09.17-03.38.35:678][504]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.09.17-03.38.35:679][504]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.09.17-03.38.35:679][504]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.09.17-03.38.35:679][504]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.09.17-03.38.35:679][504]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.09.17-03.38.35:682][504]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.09.17-03.38.35:682][504]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.09.17-03.38.35:682][504]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.09.17-03.38.35:682][504]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.09.17-03.38.35:682][504]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.09.17-03.38.35:682][504]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.09.17-03.38.35:682][504]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.09.17-03.38.35:682][504]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.09.17-03.38.35:682][504]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.09.17-03.38.35:682][504]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.09.17-03.38.35:682][504]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.09.17-03.38.35:686][504]LogExit: Exiting.
+[2017.09.17-03.38.35:700][504]Log file closed, 09/17/17 13:38:35
