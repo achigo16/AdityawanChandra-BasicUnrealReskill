@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/DataAdit/unreal-learn/MuffinWarStarter/Content/MuffinWar/Characters/Muffin/AI/AIC_Muffin.uasset",
+				"D:/DataAdit/unreal-learn/MuffinWarStarter/Content/MuffinWar/Characters/Muffin/Blueprints/BP_Muffin.uasset",
+				"D:/DataAdit/unreal-learn/MuffinWarStarter/Content/MuffinWar/Characters/Muffin/AI/BT_Muffin.uasset",
+				"D:/DataAdit/unreal-learn/MuffinWarStarter/Content/MuffinWar/Characters/Muffin/AI/BB_Muffin.uasset",
+				"D:/DataAdit/unreal-learn/MuffinWarStarter/Content/MuffinWar/Characters/Muffin/AI/BTService_SetRandomLocation.uasset",
+				"D:/DataAdit/unreal-learn/MuffinWarStarter/Content/MuffinWar/Characters/Muffin/AI/BTTask_Attack.uasset",
+				"D:/DataAdit/unreal-learn/MuffinWarStarter/Content/MuffinWar/Maps/TutorialMap.umap"
+			]
+		}
+	]
+}
